@@ -1,0 +1,11 @@
+.progress {
+  overflow: initial !important;
+}
+
+.badge-progress {
+  position: relative;
+  top: -8px;
+  color: #008cba;
+  background-color: #ffffff;
+  opacity: 0.90;
+}
